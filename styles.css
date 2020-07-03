@@ -8,8 +8,8 @@ div{
 }
 
 p{
-    margin-right: 100px;
-    margin-left: 100px;
+    margin-right: 150px;
+    margin-left: 150px;
 }
 
 h1, h2, h3 {
@@ -48,4 +48,8 @@ img {
 }
 .rightjustify{
     text-align: right;
+}
+#special{
+    margin-right: 5px;
+    margin-left: 5px;
 }
