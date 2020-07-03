@@ -1,13 +1,19 @@
 body{
     font-family: 'Tahoma';
+    text-align: center;
 }
+
+div{
+    background-color: rgb(245, 222, 239);
+}
+
 p{
     margin-right: 100px;
     margin-left: 100px;
 }
+
 h1, h2, h3 {
     color: rgb(39, 11, 86);
-    text-align: center;
 }
 h1{
     font-size: 36px;
@@ -19,9 +25,6 @@ h2{
 h3{
     font-size: 18px;
     background-color: lightgreen;
-}
-div{
-    background-color: rgb(245, 222, 239);
 }
 
 footer{
@@ -35,16 +38,14 @@ img {
     max-height: 300px; 
     text-align: center;
 } 
-
 .logo-img { 
     width: 300px; 
     height:auto;
 } 
 
-.center{
-    text-align: center;
+.leftjustify{
+    text-align: left;
 }
-
 .rightjustify{
     text-align: right;
 }
