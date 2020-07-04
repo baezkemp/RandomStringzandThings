@@ -38,19 +38,41 @@ footer{
 img { 
     width: auto; 
     height: 200px; 
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-right: 30px;
+    padding-left: 30px;
 } 
 .logo-img { 
     width: 300px; 
-    height:auto;
+    height: auto;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-right: 0px;
+    padding-left: 0px;
 } 
 
-.leftjustify{
+.leftJustify{
     text-align: left;
 }
-.rightjustify{
+.rightJustify{
     text-align: right;
+}
+.divider{
+    width: auto;
+    height: 15px;
+    padding-top: 10px;
+    padding-bottom: 10px;
 }
 #special{
     margin-right: 5px;
     margin-left: 5px;
+}
+#logoSpot{
+    width:50px;
+    height:50px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-right: 0px;
+    padding-left: 0px;
 }
